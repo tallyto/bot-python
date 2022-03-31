@@ -17,4 +17,4 @@ python main.py
 ## Libraries
 
 ### python-telegram-bot
-[https://github.com/python-telegram-bot/python-telegram-bot](github)
+[https://github.com/python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
